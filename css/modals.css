@@ -1,5 +1,6 @@
 .reveal-modal .info {
     padding: 2rem 1rem 0;
+    background-color: grey;
 }
 .reveal-modal .info .attribution {
     color: rgb(73, 85, 96);
@@ -8,6 +9,7 @@
 }
 .reveal-modal .info .attribution b {
     font-weight: 700;
+
 }
 .reveal-modal .info .avatar {
     border-radius: 50%;
