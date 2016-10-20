@@ -111,9 +111,7 @@ img {
 
 img {
   display: inline-block;
-  vertical-align: middle; 
-   width: 100%;
-}
+  vertical-align: middle; }
 
 textarea {
   height: auto;

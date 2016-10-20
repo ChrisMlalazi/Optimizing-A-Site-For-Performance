@@ -23,13 +23,7 @@
     display: block;
     min-width: 100%;
     overflow: hidden;
-   
 }
-
-.image-grid .image a img {
-    width: 100%;
-}
-
 .image-grid .image .info {
     background-color: #fff;
     border-bottom: 2px solid;
@@ -53,11 +47,3 @@
     margin-right: 1rem;
     width: 50px;
 }
-
-/*.image-main {
-    width: 100%;
-}*/
-
-
-
-
